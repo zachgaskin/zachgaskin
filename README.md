@@ -10,9 +10,11 @@
 - :sunny: Barbados born
 - :round_pushpin: Canada living
 
-- :runner: Wannabe jogger.
+- :runner: Wannabe jogger
 
-- :palm_tree: Fan of West Indies cricket, now and forever.
+- :palm_tree: Fan of West Indies cricket, now and forever
+
+- :computer: Blog: www.theyouthpen.com
 <!--
 **zachgaskin/zachgaskin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
