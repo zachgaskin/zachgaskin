@@ -3,8 +3,6 @@
 
 - :books: My current research interests lie in the field of International Trade. Specifically, I am interested in studying the role played by unobservable trade costs on the pattern of trade, the network structure of international trade and general equilibrium effects of international trade policies.
 
-- :seedling: Hoping to begin learning some SQL in the very near future.
-
 - :eyeglasses: Currently reading: The Confounding Island: Jamaica and the Postcolonial Predicament by Orlando Patterson and Poor Economics: A Radical Rethinking of the Way to Fight Global Poverty by Abhijit Banerjee and Esther Duflo
 
 - :sunny: Barbados born
